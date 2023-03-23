@@ -1,5 +1,3 @@
-# No other name
-
 I've got two questions for you:
 
 1. Is there salvation apart from Jesus Christ? 
