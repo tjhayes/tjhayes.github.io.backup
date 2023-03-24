@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Who is TJ?
-subtitle: And why does my wife want to go on dates with me
+title: Nice to meet you!
 ---
 
 My name is TJ Hayes. Fun facts:
