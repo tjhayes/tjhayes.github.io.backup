@@ -4,13 +4,17 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is TJ Hayes. Fun facts:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I grew up in Delaware.
+- I was named after my older sister. But, our names are different. That's a joke that may take a minute.
+- I like to start sentences with I. And end them that way, when I can.
 
-What else do you need?
+Interests:
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- God, the Bible, Jesus, Christianity
+- (how do you put a second item after starting such a list?)
+- Sourdough bread
+- Fixing my cars
+- Linux
+- Reading
