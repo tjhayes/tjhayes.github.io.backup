@@ -11,7 +11,7 @@ My name is TJ Hayes. Fun facts:
 
 Interests:
 
-- God, the Bible, Jesus, Christianity
+- God the Father, Jesus God's Son, and the Holy Spirit; the Gospel; the Bible; Christianity
 - (how do you put a second item after starting such a list?)
 - Sourdough bread
 - Fixing cars and other broken things
