@@ -22,8 +22,8 @@ author: TJ
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Read the Bible: "https://esv.literalword.com/"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Bible: "https://esv.literalword.com/"
+    - Markdown: "https://www.markdowntutorial.com/"
 # Author's home: "https://deanattali.com"
 
 ################
