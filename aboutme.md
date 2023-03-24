@@ -7,7 +7,7 @@ My name is TJ Hayes. Fun facts:
 
 - I grew up in Delaware.
 - I was named after my older sister. But, our names are different. That's a joke that may take a minute.
-- That's about it.
+- I'll tell you more later.
 
 Interests:
 
